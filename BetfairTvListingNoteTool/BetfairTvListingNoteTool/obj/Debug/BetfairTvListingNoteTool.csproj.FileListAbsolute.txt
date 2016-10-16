@@ -1,0 +1,12 @@
+C:\Users\Nalyd\Desktop\Current Projects\Github\HidingQueryString\HidingQueryString\BetfairTvListingNoteTool\BetfairTvListingNoteTool\bin\Debug\BetfairTvListingNoteTool.exe.config
+C:\Users\Nalyd\Desktop\Current Projects\Github\HidingQueryString\HidingQueryString\BetfairTvListingNoteTool\BetfairTvListingNoteTool\bin\Debug\BetfairTvListingNoteTool.exe
+C:\Users\Nalyd\Desktop\Current Projects\Github\HidingQueryString\HidingQueryString\BetfairTvListingNoteTool\BetfairTvListingNoteTool\bin\Debug\BetfairTvListingNoteTool.pdb
+C:\Users\Nalyd\Desktop\Current Projects\Github\HidingQueryString\HidingQueryString\BetfairTvListingNoteTool\BetfairTvListingNoteTool\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Nalyd\Desktop\Current Projects\Github\HidingQueryString\HidingQueryString\BetfairTvListingNoteTool\BetfairTvListingNoteTool\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Nalyd\Desktop\Current Projects\Github\HidingQueryString\HidingQueryString\BetfairTvListingNoteTool\BetfairTvListingNoteTool\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Nalyd\Desktop\Current Projects\Github\HidingQueryString\HidingQueryString\BetfairTvListingNoteTool\BetfairTvListingNoteTool\obj\Debug\BetfairTvListingNoteTool.csprojResolveAssemblyReference.cache
+C:\Users\Nalyd\Desktop\Current Projects\Github\HidingQueryString\HidingQueryString\BetfairTvListingNoteTool\BetfairTvListingNoteTool\obj\Debug\BetfairTvListingNoteTool.exe
+C:\Users\Nalyd\Desktop\Current Projects\Github\HidingQueryString\HidingQueryString\BetfairTvListingNoteTool\BetfairTvListingNoteTool\obj\Debug\BetfairTvListingNoteTool.pdb
+C:\Users\Nalyd\Desktop\Current Projects\Github\BetfairTvListingNoteTool\BetfairTvListingNoteTool\bin\Debug\BetfairTvListingNoteTool.exe.config
+C:\Users\Nalyd\Desktop\Current Projects\Github\BetfairTvListingNoteTool\BetfairTvListingNoteTool\obj\Debug\BetfairTvListingNoteTool.exe
+C:\Users\Nalyd\Desktop\Current Projects\Github\BetfairTvListingNoteTool\BetfairTvListingNoteTool\obj\Debug\BetfairTvListingNoteTool.pdb
